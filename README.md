@@ -1,3 +1,4 @@
-# _
+# AMNH best practices for digital media and interactives
 
-Currently a placeholder, but here is where any AMNH folks who work in tech should put their best practices and resources.
+Please refer to [Wiki](https://github.com/amnh-digital/_/wiki).
+
